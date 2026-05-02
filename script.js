@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "MOMMY";
+  const startMessage = "𝑇𝓐𝓒𝓞";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
@@ -236,8 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-   "HELLO WORLD",
-    "\"I LOVE WOMEN\""
+   "MEXICAN",
+    "\"I LOVE YOU\""
   ];
   let bioText = '';
   let bioIndex = 0;
